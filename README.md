@@ -18,6 +18,10 @@
   I want to make a cooler profile. 🤣<br>I'm currently working on a small website as portfolio web. <a href="https://panurut.dev/" target="_blank">@panurut</a> and <a href="https://covid.panurut.dev/" target="_blank">@covid statistics</a><br>and learning everything about web developement and relate technology to build my awesome portfolio web and more PROJECT!
 </details>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmondev&show_icons=true&theme=tokyonight&count_private=true&line_height=21&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmondev&theme=dark&show_icons=true&count_private=true&layout=compact">
+</p>
 
 <!--
 **salmondev/salmondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
